@@ -1,37 +1,40 @@
 ## MCM/ICM整体安排
 
-You can use the [editor on GitHub](https://github.com/ccKiven1024/2021MCM-ICM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 赛前
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 时间：<u>现在~2021年2月5日05:59 59</u>
 
-### Markdown
+#### 安排
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 1. 截止1.24日，完成姜启源的《数学模型》的学习，掌握基础模型。
+>
+>   #### 学习进度表
+> | 姓名 | 华骏威   | 伊方舟   | 邱冬    |
+> |-------|-------|-------|-------|
+> | 例子    | 完成第一章 | 完成第二章 | 完成第一章 |
+> | 1月10日 |       |       |       |
+> | 1月11日 |       |       |       |
+> | 1月12日 |       |       |       |
+> | 1月13日 |       |       |       |
+> | 1月14日 |       |       |       |
+> | 1月15日 |       |       |       |
+> | 1月16日 |       |       |       |
+> | 1月17日 |       |       |       |
+> | 1月18日 |       |       |       |
+> | 1月19日 |       |       |       |
+> | 1月20日 |       |       |       |
+> | 1月21日 |       |       |       |
+> | 1月22日 |       |       |       |
+> | 1月23日 |       |       |       |
+> | 1月24日 |       |       |       |
 
-```markdown
-Syntax highlighted code block
+2. 
 
-# Header 1
-## Header 2
-### Header 3
+---
+### 赛中
+#### 时间：<u>2021年2月5日06:00~2月9日09:00</u>
 
-- Bulleted
-- List
+---
+### 赛后
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ccKiven1024/2021MCM-ICM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 时间：<u>2021年2月9日09:00 01~4月底</u>
