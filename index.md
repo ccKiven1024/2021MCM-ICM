@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MCM/ICM整体安排
 
 You can use the [editor on GitHub](https://github.com/ccKiven1024/2021MCM-ICM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
