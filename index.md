@@ -30,7 +30,12 @@
 1月23日 |       |       |
 1月24日 |       |       |
 
-2.
+2. 观看美赛报名介绍视频：<https://www.bilibili.com/video/BV1Ba4y1H7nz?from=search&seid=2637666588428636087>，看美赛官网报名条例规则
+3. 对于报名，全队综合考虑，是通过机构报名，还是自行报名
+4. 论文排版教程：<https://www.bilibili.com/video/BV1Ci4y1c7Ld?p=2>
+5. 论文写作方法：<https://www.bilibili.com/video/BV1Na411w7c2>
+6. 建立数学模型
+7. 数学模型算法
 
 ---
 ## 赛中
