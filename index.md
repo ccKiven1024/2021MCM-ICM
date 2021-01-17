@@ -30,12 +30,17 @@
 1月23日 |       |       |
 1月24日 |       |       |
 
+
 2. 观看美赛报名介绍视频：<https://www.bilibili.com/video/BV1Ba4y1H7nz?from=search&seid=2637666588428636087>，看美赛官网报名条例规则
-3. 对于报名，全队综合考虑，是通过机构报名，还是自行报名
+3. 对于报名，全队综合考虑，是通过机构报名，还是自行报名。如果自行报名，需要找个advisor。
 4. 论文排版教程：<https://www.bilibili.com/video/BV1Ci4y1c7Ld?p=2>
 5. 论文写作方法：<https://www.bilibili.com/video/BV1Na411w7c2>
-6. 建立数学模型
-7. 数学模型算法
+6. 建立数学模型：参考姜启源的《数学模型》
+7. 数学模型算法参考司守奎的《数学建模算法与应用》
+8. 主要是掌握模型和了解算法实现，以及英语写作。
+9. 小队主要路线前进路线，参考知乎贴子：<https://www.zhihu.com/question/51699663>
+10. 美赛资源指南：<https://www.comap.com/undergraduate/contests/resources/index.html>
+11. 美赛往年题目：<http://www.mathmodels.org/problems.html>
 
 ---
 ## 赛中
